@@ -1,7 +1,7 @@
 Meta.DisplayName=TES3MP
 Meta.Description=Morrowind TES3MP Server
 Meta.Arch=x86_64
-Meta.Author=Jason-Kha - Made with AMP Config Generator
+Meta.Author=Jason-Kha
 Meta.URL=https://tes3mp.com
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=cubecoders/ampbase:wine
