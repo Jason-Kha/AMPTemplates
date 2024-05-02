@@ -71,6 +71,7 @@ Meta.OS=3
 Meta.ConfigManifest=abiotic-factorconfig.json
 Meta.MetaConfigManifest=abiotic-factormetaconfig.json
 Meta.ConfigRoot=abiotic-factor.kvp
+Meta.AppConfigId=051225b4-3d45-4676-9b56-f36c7ba5020a
 App.RootDir=./abiotic-factor/
 Meta.DisplayImageSource=steam:2857200
 App.BaseDirectory=./abiotic-factor/2857200/

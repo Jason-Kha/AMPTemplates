@@ -73,6 +73,7 @@ Meta.MetaConfigManifest=tes3mpmetaconfig.json
 Meta.ConfigRoot=tes3mp.kvp
 App.RootDir=./tes3mp/
 Meta.DisplayImageSource=url:https://avatars.githubusercontent.com/u/19384371
+Meta.AppConfigId=b8e27553-d16d-4014-8a5e-bbf24fffaec9
 App.BaseDirectory=./tes3mp/serverfiles/
 App.WorkingDir=serverfiles
 App.ExecutableWin=serverfiles\tes3mp-server.exe
