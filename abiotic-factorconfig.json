@@ -1,0 +1,53 @@
+[
+    {
+        "DisplayName": "Max Players",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "max,players",
+        "FieldName": "MaxServerPlayers",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "MaxServerPlayers",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "6",
+        "Placeholder": "6",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Steam Server Name",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "steam,server,name",
+        "FieldName": "SteamServerName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "SteamServerName",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "AMP Powered Server",
+        "Placeholder": "AMP Powered Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Password",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,password",
+        "FieldName": "ServerPassword",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerPassword",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    }
+]

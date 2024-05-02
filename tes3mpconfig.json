@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "The name displayed in the server browser",
+        "Keywords": "server,name",
+        "FieldName": "hostname",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "hostname",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "Yoshi TES3MP Server",
+        "Placeholder": "Yoshi TES3MP Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Password",
+        "Category": "Server Settings",
+        "Description": "Server password",
+        "Keywords": "server,password",
+        "FieldName": "password",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "password",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
